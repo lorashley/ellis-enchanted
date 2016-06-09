@@ -957,7 +957,7 @@
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.6);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em 0 0;
@@ -989,6 +989,7 @@
 		
 		#header .image.header {
 			width: 12em;
+			margin: 5em 0 0 0;
 		}
 
 /* Footer */
@@ -1035,6 +1036,27 @@
 				#footer .copyright li a {
 					color: inherit;
 				}
+				
+	    #footer .nav {
+        	overflow: hidden;
+        	text-align: right;
+        	margin: -10em 0 1em -2.5em;
+        	bottom: 5;
+			left: 0;
+			position: fixed;
+			padding: 0 4em 6em 0;
+			width: 35%;
+    	}
+    	
+    	#footer .nav ul{
+        	list-style-type: none;
+        	padding-left: 0;
+    	}
+
+    	#footer .nav li {
+        	float: left;
+        	padding: 0 3em 0 0;
+    	}
 
 /* Main */
 
@@ -1060,7 +1082,7 @@
     nav {
         overflow: hidden;
         text-align: right;
-        margin: -4em 0 1em -2em;
+        margin: -10em 0 1em -2.5em;
         bottom: 5;
 		left: 0;
 		position: fixed;
