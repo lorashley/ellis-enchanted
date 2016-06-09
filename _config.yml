@@ -1,26 +1,64 @@
-# Site settings
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "Ellis Enchanted"
+description: "a personal blog for all of the little things"
+url:        # the base hostname & protocol for your site
 
-title: Ellis Enchanted # Title of your site
-email: ellisenchanted@gmail.com # Your contant email
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lorashley.github.io/" # the base hostname & protocol for your site
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
 
-# Social links.
-# Replace the word 'example' with your username if you want to include the icon in the left sidebar
-# Delete the word 'example' if you don't want to include the icon in the left sidebar
-
-twitter_username:       # Replace this with your Twitter username
-ig_username:      trinidad.flames  # Replace this with your GitHub username
-github_username:      lorashley  # Replace this with your GitHub username
-linkedin_username:    laurenramgattie  # Replace this with your LinkedIn username
-google_plus_username:   # Replace this with your Google+ username
-facebook_username:      # Replace this with your Facebook username
-dribbble_username:      # Replace this with your Dribbble username
-
-# Build settings
-markdown: kramdown
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Lauren
+  avatar: avatar.jpg
+  job: #"Your job"
+  bio: #"Write about yourself"
+  email: ellisenchanted@gmail.com
+  disqus-shortname:
+  twitter:
+  facebook:
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: lorashley
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: trinidad.flames
+  lastfm: #username
+  tumblr: #username
+  pinterest: lorashley
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
