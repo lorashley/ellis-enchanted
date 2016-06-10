@@ -4,6 +4,8 @@ title: Warm Welcome - What's in a name?
 date: 2016-06-09T11:33:44.000Z
 tags: about hello
 image: https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/13257170_162589854143969_687173617_n.jpg
+comments: true
+
 ---
 <center><a href="https://www.instagram.com/p/v3yCk8OmhT">
 <img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/13257170_162589854143969_687173617_n.jpg" height="300" ></a>

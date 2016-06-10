@@ -5,9 +5,15 @@ date: 2016-06-09T20:32:44.000Z
 category: ['food', 'recipe']
 tags: ['food', 'bread pudding', 'recipe', 'bourbon']
 image: https://scontent-ord1-1.cdninstagram.com/t51.2885-15/e15/13277817_143598346056233_865188154_n.jpg
+comments: true
 ---
+While briefly living in Raleigh, North Carolina, my husband and I had a few fantastic bread puddings. I know bread pudding isn't up
+everyone's alley - but it is DEFINITELY up our alley. While having brunch at a <a href="https://www.lafarmbakery.com/">french bistro</a> we 
+had an amazing blue crab bread pudding. Unfortunately, they change their menu frequently and I never saw it again. Le sigh. 
+The other one that resonated with us was a good ol' southern bourbon bread pudding from a local microbrew in Durham near the UNC campus. 
+We've dreamt about both since, but I have only recreated the latter. Here we go!
 
-So I didn't take step by step photos this time because it was the first time making it, but we made a burbon bread pudding.
+So I didn't take step by step photos this time because it was the first time making it and I didn't realize I was starting a blog.
 It was dabomb.com and I plan on making it for an upcoming summer social I'm having for some colleagues and friends.
 
 <center>
