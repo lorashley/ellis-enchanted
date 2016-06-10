@@ -1,3 +1,14 @@
 <footer>
+  <nav class="nav">
+    <ul class="nav-list">|
+      {% for page in site.pages %} {% if page.title %}
+      <li class="foot-item">
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %}
+        <span>|</span>{% endunless %}
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+  </nav>
+  {% include social-links.html %}
   &copy; {{ site.title }} 2016.
 </footer>

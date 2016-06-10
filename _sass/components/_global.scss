@@ -108,6 +108,26 @@ footer {
     color: $danger;
     text-shadow: 0 0 5px $white, 0 0 10px $danger;
   }
+  .foot-list {
+  margin: 0;
+  padding: 0;
+  list-style: none; 
+  .foot-item {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    & a {
+      margin-top: 1em;
+      text-transform: lowercase;
+      font-size: 85%;
+      color: $secondary;
+      &:hover,
+      &:focus {
+        color: lighten($secondary, 14%);
+      }
+    }
+  }
+}
 }
 .related-articles {
   margin-top: 2em;
@@ -119,4 +139,6 @@ footer {
     padding: 0;
     list-style: none;
   }
+
 }
+
