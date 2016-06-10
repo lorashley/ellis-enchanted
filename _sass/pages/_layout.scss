@@ -82,7 +82,7 @@
       display: inline-block;
       margin-left: .1em;
       a.social-link-item {
-        color: #fff;
+        color: $secondary;
         &:hover,
         &:focus {
           color: lighten($secondary, 14%);
