@@ -56,6 +56,21 @@
     margin: 0 auto;
     padding: 0 0px 80px;
   }
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style: none;
+      margin-left: .1em;
+      a.social-link-item {
+        color: #fff;
+        &:hover,
+        &:focus {
+          color: lighten($secondary, 14%);
+        }
+      }
+    }
+  }
 }
 .social-links {
   margin-top: 0.5em;
@@ -65,7 +80,7 @@
     li {
       list-style: none;
       display: inline-block;
-      margin-left: 1em;
+      margin-left: .1em;
       a.social-link-item {
         color: #fff;
         &:hover,

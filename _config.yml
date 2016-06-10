@@ -6,6 +6,8 @@
 title:       "Ellis Enchanted"
 description: "a personal blog for all of the little things"
 url:        # the base hostname & protocol for your site
+paginate: 3
+paginate_path: "/page:num"
 
 #
 ###################################
@@ -13,10 +15,15 @@ url:        # the base hostname & protocol for your site
 ####################################
 #
 timezone:          Europe/Paris
+gems: [jekyll-paginate]
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+#permalink:         /articles/:year-:month/:title
+
+
+
+
 
 kramdown:
   auto_ids:       true
@@ -36,7 +43,7 @@ owner:
   job: #"Your job"
   bio: #"Write about yourself"
   email: ellisenchanted@gmail.com
-  disqus-shortname:
+  disqus-shortname: ellisenchanted
   twitter:
   facebook:
   google:

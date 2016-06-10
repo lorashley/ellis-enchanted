@@ -1480,6 +1480,16 @@ pre code {
       text-align: center;
       margin: 0 auto;
       padding: 0 0px 80px; } }
+  .cover-card ul {
+    margin: 0;
+    padding: 0; }
+    .cover-card ul li {
+      list-style: none;
+      margin-left: .1em; }
+      .cover-card ul li a.social-link-item {
+        color: #fff; }
+        .cover-card ul li a.social-link-item:hover, .cover-card ul li a.social-link-item:focus {
+          color: #bfb6eb; }
 
 .social-links {
   margin-top: 0.5em; }
@@ -1489,7 +1499,7 @@ pre code {
     .social-links ul li {
       list-style: none;
       display: inline-block;
-      margin-left: 1em; }
+      margin-left: .1em; }
       .social-links ul li a.social-link-item {
         color: #fff; }
         .social-links ul li a.social-link-item:hover, .social-links ul li a.social-link-item:focus {
@@ -1782,3 +1792,34 @@ a.read-more {
     background-color: #fff;
     color: #5f99cf;
     border-color: #5f99cf; }
+
+/* ONEPAGE CSS */
+.who {
+  background-color: #fff; }
+  .who .avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    float: right;
+    position: relative;
+    top: 6em; }
+
+.what {
+  background-color: #fff;
+  position: relative; }
+  .what ul {
+    float: center;
+    list-style-type: none; }
+
+.where {
+  background-color: #fff; }
+
+.pagination {
+  text-align: center; }
+
+.location {
+  border-radius: 50%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }

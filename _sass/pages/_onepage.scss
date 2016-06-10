@@ -1,0 +1,36 @@
+/* ONEPAGE CSS */
+
+
+.who {
+	background-color: #fff;
+	.avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    float: right;
+   	position: relative;
+   	top: 6em;
+  }
+}
+.what {
+	background-color: #fff;
+	position: relative;
+	ul{
+		float:center;
+		list-style-type: none;
+	}
+}
+.where {
+	background-color: #fff;
+}
+.pagination{
+    text-align:center;
+}
+.location {
+    border-radius: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
