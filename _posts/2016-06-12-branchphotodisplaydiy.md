@@ -17,10 +17,10 @@ Did't take pictures during the process. Learning that I should be taking pics fo
 Our branch was like 5 feet long. I didn't intend on doing such a long branch, but it worked out and I'll tell you why! 
 
 #### Step TWO: Print your pics
-I didn't get paid to promote this company by any means. But in case you want to recreate something like this I did want to share
-how awesome everything turned out from them. I did the <a href="https://www.socialprintstudio.com/minisquares/">minisquares</a>
+I didn't get paid to promote this company by any means. But in case you want to recreate something like this, I did want to share
+how awesome everything turned out from them. I ordered the <a href="https://www.socialprintstudio.com/minisquares/">minisquares</a>
 from <a href="socialprintstudio.com">social print studio</a>. Other common printing places such as Walgreens and CVS only did
-3x3 and larger (same for shutterfly). I wanted smaller due to how many I was using and 2x2 was perfect.
+3x3 and larger (same for shutterfly). I wanted smaller pics due to how many I was using and 2x2 was perfect.
 
 #### Step THREE: Assemble! 
 The items I used were: Branch, Twine, Pics, Mini Clothespins, & Scissors - SO SIMPLE.
