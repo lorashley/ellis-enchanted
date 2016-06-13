@@ -246,3 +246,17 @@ a.read-more {
     border-color: #5f99cf;
   }
 }
+.pinterest {
+  background-color: #C92228;
+  color: $white;
+  border-color: #C92228;
+  &:visited {
+    color: $white;
+    border-color: #C92228;
+  }
+  &:hover {
+    background-color: $white;
+    color: #C92228;
+    border-color: #C92228;
+  }
+}
