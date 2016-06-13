@@ -1657,6 +1657,13 @@ section.post {
   border-radius: 0.4em;
   padding: 0.5em 1em; }
 
+.post-title {
+  color: #42b983;
+  font-size: 20px;
+  margin-left: -10px; }
+  .post-title:hover, .post-title:focus {
+    color: #75cea5; }
+
 .post-title-link {
   color: #42b983;
   font-size: 14px;
