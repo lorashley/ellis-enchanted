@@ -5,7 +5,7 @@ categories: ['beauty']
 comments: true
 tags: microblading cosmetic-tattoo brows beauty
 image:
-  feature: https://lh3.googleusercontent.com/NwqI9vzzW5SjCGtGDn0U8kaNU1-ruTcWrWqjreTWO6sR0dyKfLFinN2Ti5Au1gJCPw-veinUP-kp2_IkvZzYWKz-D8Cr9hhpK-aDvRgLwMYqUqRTdiacI9UC5rT07QE87V9-h6EqQ8KwIG9IqL4Kdu2cOhpwmgEmjpRPBInltY8nRallwC6Of7DKGb2Rfoi0hn_l11aFJJ370TcbmNZBLMglt1f1CKj7oJE6d5HIpjLE98RGy9LMN5vHZjtqdWF4FAkOg8mrAHYkRlHFKTxOqwpuxGl0Sb16e2gY7YRArKqS1nAFSb043pWXwL453pnPu99-RskfwPHmvD3Waa2erIpTxvYqiTqbxHI7RycCgo_xzUrsX7eyDu9QA2rveEHkZ9ykRVa_SdCcoKw4TvREXrmSfLsEzeS1k3tIxzXwjZi0LqyKfYGHS9nzTPC3sRuFyUtVobzjF_-1ZlJFDOUshJHV4rry0Od4pO0w8kMRgIpwalCLoklAdciwIHfCC1G1hO9jV2-slxq9fAT8HiVmrPnB3UcoMK9Qeby86ToOIlyjrzh87aIUkik5Ek1VmaJWFt_a0YLjxuhsUcBprOQncQ0D-CBfngc0vTtdA0cEiSaB_U52J_zD=s843-no
+  feature: http://i.imgur.com/0hv9ll3.jpg
 ---
 
 I'll be updating this with my journey I think. I researched the process heavily, but there were still surprises in the outcome.
