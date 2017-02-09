@@ -15,7 +15,9 @@ paginate_path: "/page:num"
 ####################################
 #
 timezone:          Europe/Paris
-gems: [jekyll-paginate]
+gems: 
+    - jekyll-paginate
+    - jekyll-seo-tag
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -44,7 +46,7 @@ owner:
   bio: #"Write about yourself"
   email: ellisenchanted@gmail.com
   disqus-shortname: ellisenchanted
-  twitter:
+  twitter: LorTheCreator
   facebook:
   google:
     plus:
