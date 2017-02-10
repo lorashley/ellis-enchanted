@@ -1520,8 +1520,9 @@ pre code {
         .social-links ul li a.social-link-item:hover, .social-links ul li a.social-link-item:focus {
           color: #bfb6eb; }
 
-.nav {
-  margin-top: -25px; }
+@media only screen and (min-width: 600px) and (max-width: 990px) {
+  .nav {
+    margin-top: -50px; } }
 
 .nav-list {
   margin: 0;
