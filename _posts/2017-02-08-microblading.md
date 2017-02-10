@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I got my eyebrows microbladed
+title: My microblading experience! 
 categories: ['beauty']
 comments: true
 tags: microblading cosmetic-tattoo brows beauty
@@ -8,12 +8,12 @@ image:
   feature: http://i.imgur.com/bxZE6tX.jpg
 ---
 
-I'll be updating this with my journey I think. I researched the process heavily, but there were still surprises in the outcome.
+Microblading was something I wanted for a long time. I researched the process heavily, but there were still surprises in the outcome.
 Overall I think I'm extremely happy with it. When I look at the before photo, there is no question. I felt so naked without
 brows, and honestly I'm not a makeup person. I hated that I felt **ugly** leaving the house without doing my brows. I don't
-feel that way anymore, so I think that it's worth it. All the photos to follow show no brow makeup.
+feel that way anymore, so I think microblading is worth it. All the photos to follow show no brow makeup.
 
-This is a before and after at the time of my first session.
+This is a before and after at the time of my first microblading session.
 <!--more-->
 Over the next two weeks, the brows heal. **Pigment fades** and they do not look as flawless as when you first got them.
 This is why you have touchups. 
