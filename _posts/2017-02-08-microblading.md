@@ -5,7 +5,7 @@ categories: ['beauty']
 comments: true
 tags: microblading cosmetic-tattoo brows beauty
 image:
-  feature: http://i.imgur.com/bxZE6tX.jpg
+  feature: http://i.imgur.com/yRVO2js.jpg
 ---
 
 Microblading was something I wanted for a long time. I researched the process heavily, but there were still surprises in the outcome.
