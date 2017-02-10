@@ -20,10 +20,10 @@ to Paris. Honestly, London & Paris was 5 days of no sleep. Fast-forward to Janua
 
 ![Snorkeling Iceland Silfra Fissure](https://lh3.googleusercontent.com/JLfxIGCgQP9nTo_IwhBXpVSbRaeVvr-KA3jHdP3WuOeiEIgQsy232qEFsfITxcNicjL8w1VWh_6Q_d21erqsA_pTegsEDTC7UBZUmeCkb6lDN39PbE6OT-qZMtLvEk1XJf00KplEnghZIDlMSOQ5hBt1e94ve1qHb0M9gRwpLhCjjYHByvJj17RAvJ9KnVwOs8xcoFX1z-PV-uTzmDr4II2KDyPrcC3A4lT2he0bPDo3G3Eta8hDWPOs9PQgOzByotDG7Avr1k8UqZ7DAG1acRmZE6xUKxPCdQSgzwnViHo-aDD4L2SZuuup73b33rRvODdd4wDXmgBqDwRXoOv0yO_-g5eswH840s3xyxBaNPR6bfuHg9txqAQKPfAUu7c4XRpTc0nKIWdOOcIfypclBBhbelSmoLUllN7uH2sZGTWuXzsldjNca_NWwSmJQyloPDVddSgaRLRlOM33s0os6gigz3foyBSvN8GEWqMLikSXQn5LtiBIW1QBoIIGxZQpCUfar0UihbaFThKunXlo41664dvyvmBK9mLWXyUD-ZlJqB_9b4fuzGm7Ky-Qz_zj2HV2bRNWgqoilNMlcCU5QdfMsHzOuhEu0sr0IyJ5gmLyfMYDuR89z-Iawc0ph4HzQ5tkRiI5o0VT9Irg00UoNeo2a7SuChRlnnqWaS5jgw=w1800-h719-no)
 
-
 This day was probably the coldest I've ever been in my life. The water stays at 35°F year-round. It was about 32°F outside that day.
-Honestly, the water wasn't so bad since it was so cold outside. Getting out of the dry-suit, that was an experience on it's own.
-
+Honestly, the water wasn't so bad since it was so cold outside. My hands and feet were numb, but wrapped in the suit I waddled and felt like a penguin.
+The water was so clear and fresh, coming straight from the glaciers. 
+Getting out of the dry-suit, that was an experience on it's own, probably the hardest part.
 <img alt="rotten egg showers iceland" src="http://kraum.is/wp-content/uploads/sites/6/2015/02/3729_164427890347591_91706224_n.jpg" style="float: right;" width="200">
 
 We celebrated our successful adventure with bread bowls and beer in Reykjavik. 
@@ -36,26 +36,33 @@ the sulfur (rotten eggs!).
 We made our way down to the Reykjanes Peninsula. It was windy and beautiful. 
 You could see how strong the waves were as they crashed against the island.
 
+<br/>
 ![Reykjanes Peninsula](https://lh3.googleusercontent.com/yUzgFyyGhiD0dv_u7KiYFh8JlMjrSoMtYIyazK4mOnDBSe0-Sfo9Fzi-GMv2f7lGzpscrolB1-T8MmXUUxkXJPYHqaZtR7CChUpY6r4zf1Hk0ueWfXvDPInxvW8jMaWGNRWpAdnTS7-PhqjUWi0EFcKdkyelEmDBR3PsyijXqMKjpCO6eDNoHfYc1oEcVLefBJ8aHKaH5tc1qze3EroluZ57LX49tyZmkjpTFsFfIcsdE8iaBHaL5lRWRS3yfrKOhjuttK1vb7MK4f7UfzkYD3t_bLm9m0AIYAqL_pOaRQQEkpCjqfVsvVxvqZU-eM-V56dzmAPlYWv90yr2QIE5yO3335wJ-WadHls0wpHX7EATf9ltS7RcNi8hZEa9S8sztIx_MSaPSS58rhIN-1obl0lq3T6zSioUJ6-03eTpk24w3iGw_0NA5Yam1K4g4EwkX5flHlBMs5qdyzY7YsHVZo2kpiqPqtisfS2rWcHY8c78UEyR1gXh8zb_gi2op8xhXAQI8K9ftyLuvG1QSoecB9rnNd1GMaDaa5_J4yW91C3QLG5KR6GkTgmkaTGy0uDKyExEin0pmBdHSZm-Zb_Mb0VfaEBld5hhqBwsufJ916vDsRfe4wTr=w1964-h516-no)
 
 We popped into Cafe Loki for a traditional Icelandic meal. It included mashed fish, trout, rye bread, fermented shark (I was sick
 so this wasn't as vile as it apparently is), and delicious rye-bread icecream! 
 
-That night we went Aurora hunting. It was a bit cloudy and after a few hours, we saw **nothing**. It was terribly windy and our
-tour guide was so charming with his Icelandic tales. We called it a night, we were exhuasted.         
+That night we went Aurora hunting. It was a bit cloudy and after a few hours, we saw **nothing**. It was terribly windy but our
+tour guide was so charming with his Icelandic tales. After a few hours we called it a night, we were exhuasted.         
 
 ### Golden Circle Day Trip
-With our next full day ahead we toured the Golden circle. We visited Gulfoss and the geysirs. We planned on doing a hike in 
-Hveragerdi, but the weather was not on our side. We still drove through the hot spring town. Little did we know we would end 
-up here again.
+With our next full day ahead we toured the Golden circle, visiting Gulfoss, the geysirs, and the volcanic crater lake Kerið. We planned on doing a hike in 
+Hveragerdi, but the weather was not on our side. We still drove through the hot spring town, which we would visit for sure in the summer. 
+Little did we know we would end up here again.
 ![Iceland Gulfoss](https://scontent.xx.fbcdn.net/v/t1.0-9/16142827_10208457098080615_1382265414289218733_n.jpg?oh=2257ba035156ff8ab87baa7450bbd120&oe=593DCDE7)
 
 ### Dining at Apotek
 
-My favorite meal of the trip. It was a 7 course meal with Puffin, Minke Whale (not endangered), Plaise, Perch, Lamb Chops, and more. Everything
-was delicious and filling. You can see our Skyr dessert below: 
+This was my favorite meal of the trip. It was a 7 course meal with Puffin, Minke Whale (not endangered), Plaise, Perch, Lamb Chops, and more. Everything
+was delicious and filling.
 
-<center><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p206x206/16195795_10208486201968194_5594467682066631194_n.jpg?oh=e590e0be4febb730677c46c08e83b83b&oe=5945F679"></center>
+<center><figure>
+  <img alt="microblading 1 day later" src="https://scontent.xx.fbcdn.net/v/t1.0-0/p206x206/16195795_10208486201968194_5594467682066631194_n.jpg?oh=e590e0be4febb730677c46c08e83b83b&oe=5945F679">
+  <figcaption>Our Skyr Dessert</figcaption>
+</figure>
+</center>
+
+
 
 
 Before heading to bed that night, I got a notification that someone saw the lights in none other than Hveragerdi. 
