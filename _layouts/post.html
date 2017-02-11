@@ -3,9 +3,19 @@ layout: default
 comments: true
 ---
 
-<a class="btn" href= "{{ site.url }}/" >
+<div class="pagination">
+  {% if page.next.url %}
+    <a class="prev" href="{{page.next.url}}">&laquo; Prev</a>
+  {% endif %}
+  | <a href= "{{ site.url }}/" >
   Home
-</a>
+	</a> |
+  {% if page.previous.url %}
+    <a class="next" href="{{page.previous.url}}">Next &raquo;</a>
+  {% endif %}
+</div>
+<p></p>
+
 {% if page.image.feature %}
 <div class="post-image-feature">
   <img class="feature-image" src=
@@ -69,3 +79,16 @@ comments: true
 <div id="disqus_thread"><a href="#disqus_thread"></a></div>
 {% include disqus.html %}
 {% endif %}
+
+<p></p>
+<div class="pagination">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; Prev</a>
+  {% endif %}
+  | <a href= "{{ site.url }}/" >
+  Home
+	</a> |
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">Next &raquo;</a>
+  {% endif %}
+</div>
