@@ -13,3 +13,5 @@ Although we have been here for two years, I didn't always feel at home just yet 
 
 xoxo,
 L
+
+P.S. If you see posts prior to this one, its me migrating posts I've had at other locations to here! They were posted for a reason so they shouldn't be lost :) Enjoy!
