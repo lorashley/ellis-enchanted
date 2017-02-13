@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Countertop Refresh - Miracle Grout Paint
-categories: ['projects']
-tags: diy projects
+title: Tile Countertop Refresh - Miracle Grout Paint
+categories: ['project']
+tags: diy project
 comments: true
 image:
   feature: http://i.imgur.com/PT6WinB.jpg
