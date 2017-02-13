@@ -11,7 +11,7 @@ image:
 So it all started with my office and closet makeover and me working towards a more minimalist life. Thus far this year, I have been thoughtful in my words, actions, and lifestyle.
 I know it's only February, but it feels like its lasting longer than the usual resolution. Every time I accomplish something, it has propelled me to take on the next challenge.
 
-Since I'm impatient, that challenge was my kitchen. 
+Since I'm impatient, that challenge was my kitchen. <!--more-->
 
 Whenever I fantasize about my dream kitchen, it looks nothing like the kitchen I currently have. 
 
