@@ -5,8 +5,8 @@
     <description>a personal blog for all of the little things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Feb 2017 00:04:56 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2017 00:04:56 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2017 15:49:28 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2017 15:49:28 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -157,20 +157,30 @@ Another trip for the &lt;s&gt;books&lt;/s&gt; blog.&lt;/p&gt;
     
       <item>
         <title>My microblading experience!</title>
-        <description>&lt;p&gt;Microblading was something I wanted for a long time. I researched the process heavily, but there were still surprises in the outcome.
+        <description>&lt;p&gt;Microblading was something I’ve wanted for a while. I researched the process heavily, but there were still surprises in the outcome.
 Overall I think I’m extremely happy with it. When I look at the before photo, there is no question. I felt so naked without
 brows, and honestly I’m not a makeup person. I hated that I felt &lt;strong&gt;ugly&lt;/strong&gt; leaving the house without doing my brows. I don’t
 feel that way anymore, so I think microblading is worth it. All the photos to follow show no brow makeup.&lt;/p&gt;
 
 &lt;p&gt;This is a before and after at the time of my first microblading session.
-&lt;!--more--&gt;
-Over the next two weeks, the brows heal. &lt;strong&gt;Pigment fades&lt;/strong&gt; and they do not look as flawless as when you first got them.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-process&quot;&gt;The Process&lt;/h2&gt;
+&lt;p&gt;I arrived for my session and my artist worked with my facial structure, current eyebrow shape, and eyebrow desires to draw on eyebrows to my face. 
+Once I was happy with them she put on the numbing cream and we waited about 10-15 minutes for it to sink it. She began the tattooing which didn’t hurt at first.
+I was sure that it was going to be a breeze and &lt;strong&gt;then&lt;/strong&gt; I felt the pain. Maybe the numbing cream was wearing off or maybe I was sensitive. Regardless, for me
+the pain felt like eyebrow threading. Eyebrow threading is my least favorite thing, I want to cry every time. I could wax my eyebrows for days but back off with
+the threads. So, this pain lasted about another 30 minutes and then we were done! I think the whole process was an hour? She has been doing this for over 5 years,
+originally she learned in China before moving back to America and microblading was “new” at that time over here.&lt;/p&gt;
+
+&lt;h2 id=&quot;healing-round-one&quot;&gt;Healing (Round One)&lt;/h2&gt;
+&lt;p&gt;Over the next two weeks, the brows heal. &lt;strong&gt;Pigment fades&lt;/strong&gt; and they do not look as flawless as when you first got them.
 This is why you have touchups.&lt;/p&gt;
 
 &lt;p&gt;Before the peeling I was taking selfies non-stop and basking in my fleekness. I did notice that they seemed dissimilar, but knew this would all be addressed in the touchup.&lt;/p&gt;
 
 &lt;center&gt;&lt;figure&gt;
-  &lt;img alt=&quot;microblading 1 day later&quot; src=&quot;https://lh3.googleusercontent.com/e4E4DNvaEIpgZm_VODKQUUdTAFaT1avEfyPc8n2QbeuO6Id6NqSwU7vy7kUVDoMD3tiLIvWiM41NyhL1B6waQWgAW9SfqJJ4XAgM09hDpwW7a_0G1kmaMCYFWVIlfsXG9nn7i0Sjmxvq8KQwgQK04Pv6pKn31LbdTeRA8SL5hchiurAROhnyQQQ6eF-_EnsbAgUHOL9LZIPFbEWXjuiPM1SJbmfnqvH9UKGXif-ZPdrxrOXZYWQtG23e-g5raaDaxXIEA6JEvPjapGQXumYh1iEgWsAeZqKQQpoWE-ic8IYW6JbJJvigAD7ty4LdSaJG9cwuXEMpJQ5_yRjGBqxuVFABywn7OqNI4dc9QQEuDUV3bTwVnsIKDUVHENWWY5VWE0Yo8xt2hfvJ3AlXWf_11HL9Y_62K-im9X2y0AmJYFYrTiep8xBWC-EF_0i1btAt_O34106wrUsMwVZYQ_ac_RNxBIzr2MYefAB3yu64NZCFrG1zdLhaoyeCi8F7gM4VlNBG0KSBfRO3y4DKfcluJ7HX4_fhAhy6rzSTSE4xsO7F7yA-wwQ_siSyvmQocrDxIeHOV3X2DlhD5vEbfojrRO9nXgwd5yyA8ojRCYDVpyMNyKD3=w826-h1466-no&quot; width=&quot;300&quot; /&gt;
+  &lt;img alt=&quot;microblading 1 day later&quot; src=&quot;http://i.imgur.com/98osmAP.jpg&quot; width=&quot;300&quot; /&gt;
   &lt;figcaption&gt;1 day later&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -179,7 +189,7 @@ This is why you have touchups.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img alt=&quot;microblading 1 week later&quot; src=&quot;https://lh3.googleusercontent.com/3tzlRVjDxHYPvTl2pL8XQmTY-PF7sZUY95bkuWeUm5rDSrNkj9uBR7639TevggzWwWdUpBe8v6y5scDRYrHfzqGu3dThY-QGDAp5A5tkJgUKs5DK9yBu3trxqR3nmnP5c4CFt-ScgVQGCzo7fsXHqjcGhRSnwuzFDtiRp3hF9EVruEPp2CycCKeO_V57vl8-pGHL7Q1dpU8lMshhW8FKPcqB3AHbRXZOLSw2V8dx1M0qS7sT6KgU58qA7aQ3ZBMxQkuSeTOdrNHxx2TI8D9bTeNS-rRlOqltVVfGBv5gpirb8cll1GD5iyw2eDiIkmLugatHO4dWJ27B-swXxRfq246ucMnLuJqFMpfmsK4bYJph5xg3K1M3AJ8X0BpCJZ24akm4iRwuJ15ne6NUbiXqBhCGyar5S1lFMPHb1D8KLic0XCz4hgsDcJX_wDXTRu7WZ7Vf9HGn4jE577nHCBvIS3_d57xt-DF4VJMYBMghPo3P5A-rEk_0-pm320SoEuhHAMQxUDsevy3EDHqWq-aHzGZPeD6MqSRb6crdNcDRgRXgxt25I3mLhZeICTslz330pmU8OltyB1fHYaAvhTgAR7VhH0n6KmMlMnNI-YWIY9zX3qGb=w1952-h1466-no&quot; width=&quot;300&quot; /&gt;
+  &lt;img alt=&quot;microblading 1 week later&quot; src=&quot;http://i.imgur.com/0bOfrYJ.jpg&quot; width=&quot;300&quot; /&gt;
   &lt;figcaption&gt;1 week later&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -190,8 +200,7 @@ before.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img alt=&quot;microblading 3 weeks later&quot; src=&quot;https://lh3.googleusercontent.com/0oa5NC7Mk9C9_d59LCgSRhgIawd6rgWG2ENCvOGM88mcZfc9_RNbcb1rJDDA2iXQDH-gjFWJe3RV0GYsuaUYsGPpKHTceXZ8wMo3avfMt8DLBMkl9gz-AE4SJ5HpHTmohyEi7sKer8khOM9z45emsENob-imiaSJdj5fH-bSBpItRWx8xb-QPNz_DPOFb58j6KDZwHrlC8fcchqIKSEPTzwZT6X5c17ym3Ajzfd29qhzxoXdKe8hxPdamqDrOzYqR3YdLXyh-nneyeHmZhjdBsx3KNsXbKwcmVQ95NlFemJVpGVQJl2LXH-U_AmUITy8QWXGZ1SqaniAXSH_m3jW_4SACIqlvaNYM2w_HS9E4K-0pTQQpmUWMxC8qw-wXidhq2SJn40KlP9pJzSWxHtYlmEe2-lROwAU6w8zqn9lHBk6DuIRqhw1Z_0kjLVTBZYqjM9-TNbTwLVzgrAsSdYpnC5Ivu9QYqG3COCT7SnnLGItNuTQpC_F9XEYZdXnGnbK-CJUfM-JlSCnMvXRb0u4obLYJuR5BqIV0DKG4LvuCppCsrEJZji5Uv_zcnZ2bUFmTqnS3Z7jhVImpgB0lyU-a2t9n8I609ZInwe9B7JpL75W0ZjS7qpW=w824-h1462-no&quot; width=&quot;300&quot; /&gt;
-  &lt;figcaption&gt;3 weeks later&lt;/figcaption&gt;
+  &lt;img alt=&quot;microblading 3 weeks later&quot; src=&quot;http://i.imgur.com/3ZqgY7h.jpg&quot; width=&quot;300&quot; /&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
