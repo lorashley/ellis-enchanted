@@ -5,9 +5,46 @@
     <description>a personal blog for all of the little things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Feb 2017 16:53:13 +0100</pubDate>
-    <lastBuildDate>Thu, 16 Feb 2017 16:53:13 +0100</lastBuildDate>
+    <pubDate>Wed, 05 Apr 2017 01:08:38 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Apr 2017 01:08:38 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Imposter Diaries</title>
+        <description>&lt;p&gt;I can’t express how often I feel like an imposter. I can’t explain it either and even reassuring words from colleagues and friends can be a temporary fix, but ultimately can make me feel worse.
+Part of me wants to tell myself “just get over it” and maybe I do need to, but the true cure I’ve found is hearing from others about their own stories and relatable struggles that others face.&lt;/p&gt;
+
+&lt;p&gt;For my imposters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process&quot;&gt;Coding confessions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Standing up to the hiring process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.yegor256.com/2017/02/21/say-no-to-google-recruiters.html&quot;&gt;Say No To Google Recruiters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I shared some of these with my social and professional networks and it was really refreshing to see how many people could relate, both men and women, young and old.&lt;/p&gt;
+
+&lt;p&gt;My goal for this post is to find as many articles as I can and create enough material for us to refer to when feeling like a fraud.
+The purpose isn’t to make us complacent either. 
+Keep learning, define your goals and exceed them. 
+When you have a setback, be sure to reflect so you can grow from it.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/tech/2017/04/04/imposter.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2017/04/04/imposter.html</guid>
+        
+        <category>diy</category>
+        
+        <category>project</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
     
       <item>
         <title>Tile Countertop Refresh - Miracle Grout Paint</title>
@@ -43,8 +80,8 @@ if touchups are necessary I don’t think it’ll bother me that much.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PT6WinB.jpg&quot; alt=&quot;Before and After&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/project/2017/02/13/miracle-grout-paint.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2017/02/13/miracle-grout-paint.html</guid>
+        <link>http://localhost:4000/project/2017/02/13/miracle-grout-paint-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2017/02/13/miracle-grout-paint-copy.html</guid>
         
         <category>diy</category>
         
@@ -627,42 +664,6 @@ L&lt;/p&gt;
         
         <category>hello</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Handmade Bridal Party Crafts</title>
-        <description>&lt;p&gt;There are a lot of great things you can DIY when it comes to your wedding. I decided that I would DIY my gifts to my Bridal Party!
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;For my lovely bridal party I handmade some cards with a finetip ink pen and watercolors! I actually was attempting to do the craft where you write in white crayon and watercolor over it, but the crayons i used were not working well &lt;em&gt;cough cough crayola&lt;/em&gt;. So these were the end results, and I made envelopes with various sheets of beautiful scrapbook paper.&lt;/p&gt;
-
-&lt;center&gt;&lt;figure&gt;
-  &lt;img alt=&quot;Watercolor Bridal Party Announcements&quot; src=&quot;http://68.media.tumblr.com/adb186523a70d08c91b8bfc43c0e38c0/tumblr_n51eegIWbd1tag7jso1_500.png&quot; /&gt;
-  &lt;figcaption&gt;Watercolor Bridal Party Announcements&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-
-&lt;p&gt;For the ladies, myself, and my husband, I made wedding day hangers&lt;/p&gt;
-
-&lt;center&gt;&lt;figure&gt;
-  &lt;img alt=&quot;Bridal Name Hangers&quot; src=&quot;http://68.media.tumblr.com/d56ffe111e8c910666b1b2850b80dc62/tumblr_n51f7tlEAj1tag7jso1_500.png&quot; /&gt;
-  &lt;figcaption&gt;Bridal Name Hangers&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-</description>
-        <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/project/diy/2014/05/04/bridal-party-gifts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project/diy/2014/05/04/bridal-party-gifts.html</guid>
-        
-        <category>project</category>
-        
-        <category>diy</category>
-        
-        
-        <category>project</category>
-        
-        <category>diy</category>
         
       </item>
     
