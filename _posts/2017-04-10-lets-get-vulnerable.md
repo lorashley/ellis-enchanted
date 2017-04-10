@@ -9,7 +9,6 @@ image:
 ---
 
 Today will mark my first day of going back to school. 
-<!--more-->
 
 After some introspection and learning about UX (User Experience), I decided to enroll into
 an [Interactive Design Certificate](https://www.northeastern.edu/graduate/program/graduate-certificate-in-interactive-design-228/)
