@@ -5,9 +5,49 @@
     <description>a personal blog for all of the little things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Apr 2017 01:08:38 +0200</pubDate>
-    <lastBuildDate>Wed, 05 Apr 2017 01:08:38 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2017 17:42:12 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2017 17:42:12 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Let's get vulnerable</title>
+        <description>&lt;p&gt;Today will mark my first day of going back to school. 
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;After some introspection and learning about UX (User Experience), I decided to enroll into
+an &lt;a href=&quot;https://www.northeastern.edu/graduate/program/graduate-certificate-in-interactive-design-228/&quot;&gt;Interactive Design Certificate&lt;/a&gt;
+program. The great part of this, is that if I really enjoy it as much as I think I will, I
+can roll &lt;em&gt;all&lt;/em&gt; of the credits over into the Masters in Digital Media. Choosing the program
+was somewhat tough, I was torn between two. I choose the program that was more creative, the
+other involved more user research and a business-oriented focus. I have never studied in a
+creative field, so it felt like a necessary step.&lt;/p&gt;
+
+&lt;p&gt;I’m extremely excited, but my rather new, small insta account is going to hopefully get
+&lt;em&gt;really vulnerable&lt;/em&gt;. I’m going to be working on stuff and it’s going to look like shit or
+like beautiful shit.&lt;/p&gt;
+
+&lt;p&gt;Regardless:&lt;/p&gt;
+
+&lt;p&gt;I’m going to share it. &lt;br /&gt;
+I’m going to be self-conscious. &lt;br /&gt;
+I’m going to regret posting it.&lt;br /&gt;
+I’m going to want to make it perfect.&lt;br /&gt;
+I’m going to show my work. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lorashley.github.io/insta&quot;&gt;see it unfold&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/art/2017/04/10/lets-get-vulnerable.html</link>
+        <guid isPermaLink="true">http://localhost:4000/art/2017/04/10/lets-get-vulnerable.html</guid>
+        
+        <category>diy</category>
+        
+        <category>project</category>
+        
+        
+        <category>art</category>
+        
+      </item>
     
       <item>
         <title>Imposter Diaries</title>
@@ -642,28 +682,6 @@ L&lt;/p&gt;
         <category>food</category>
         
         <category>recipe</category>
-        
-      </item>
-    
-      <item>
-        <title>Warm Welcome - What's in a name?</title>
-        <description>&lt;p&gt;I think I have made over a dozen hello world variations over the course of my attempt at blogging. I think it may have to do with never having the right name. I’m not even sure if I have the right name yet. But, I think I’m getting there. Ellis Enchanted is what I call my house, especially on days where the snow just fell.&lt;/p&gt;
-
-&lt;p&gt;Although we have been here for two years, I didn’t always feel at home just yet here in New England. In the past few weeks, I’ve fallen more in love with my home with each passing day as we fill it with things that make it feel, well, like home. Welcome, to Ellis Enchanted - my space for creativity and for those who need a little help finding their home.&lt;/p&gt;
-
-&lt;p&gt;xoxo,
-L&lt;/p&gt;
-
-&lt;p&gt;P.S. If you see posts prior to this one, its me migrating posts I’ve had at other locations to here! They were posted for a reason so they shouldn’t be lost :) Enjoy!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jun 2016 13:33:44 +0200</pubDate>
-        <link>http://localhost:4000/2016/06/09/warmwelcome.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/09/warmwelcome.html</guid>
-        
-        <category>about</category>
-        
-        <category>hello</category>
-        
         
       </item>
     
